@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModel Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_output_text">InputFragment</string>
+    <string name="list_input_text">Tap to Add Customer</string>
+</resources>
